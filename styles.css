@@ -1,3 +1,9 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+
 :root {
   --teal: #2A5655;
   --coral: #DB5540;
