@@ -14,7 +14,7 @@ html {
   --body-text: #3A4A49;
   --peach: #E8A497;
   --peach-light: #F0B7AB;
-  --muted: #5A6A69;
+  --muted: #5A6A69; 
 }
 
 * { box-sizing: border-box; }
